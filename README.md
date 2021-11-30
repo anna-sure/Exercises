@@ -1,3 +1,3 @@
 # Exercises
 
-daily exercises with Java :)
+exercises with Java :)
